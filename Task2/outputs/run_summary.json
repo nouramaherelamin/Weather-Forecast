@@ -1,0 +1,25 @@
+{
+  "location": "Banha, Qalyubia, Egypt",
+  "latitude": 30.46,
+  "longitude": 31.18,
+  "source": "NASA POWER Daily Point API",
+  "requested_start": "2020-01-01",
+  "actual_start": "2020-01-01",
+  "actual_end": "2026-10-19",
+  "target": "temperature",
+  "frequency": "daily",
+  "train_rows": 2119,
+  "test_rows": 365,
+  "sarima_order": [
+    2,
+    1,
+    2
+  ],
+  "seasonal_order": [
+    1,
+    1,
+    1,
+    7
+  ],
+  "missing_after_preprocessing": 0
+}

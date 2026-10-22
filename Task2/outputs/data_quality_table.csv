@@ -1,0 +1,7 @@
+variable,non_missing_count,missing_count,minimum,maximum,unit
+temperature,365,0,10.11,34.45,°C
+temperature_max,365,0,16.19,44.75,°C
+temperature_min,365,0,3.69,26.83,°C
+precipitation,365,0,0.0,4.49,mm/day
+relative_humidity,365,0,19.8,77.57,%
+wind_speed,365,0,0.61,5.34,m/s (verify metadata)
