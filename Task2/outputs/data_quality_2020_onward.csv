@@ -1,0 +1,7 @@
+,missing_count,missing_percent,min,max
+temperature,1,0.04,7.72,35.29
+temperature_max,1,0.04,11.69,47.13
+temperature_min,1,0.04,1.93,27.08
+precipitation,1,0.04,0.0,1549.92
+relative_humidity,1,0.04,19.8,90.18
+wind_speed,1,0.04,1.02,8.29
